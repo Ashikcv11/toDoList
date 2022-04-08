@@ -126,3 +126,14 @@ input{
     margin-top: 10px;
 }
 
+.complete{
+    width: 70%;
+    /* align-self: center; */
+    /* padding-left: 200px; */
+    margin-left: 220px;
+    height: 479px;
+    /* border: 2px solid red; */
+    background-color: rgba(155, 155, 155, 0.11);
+
+
+}
