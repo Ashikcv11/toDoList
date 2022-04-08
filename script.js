@@ -21,6 +21,9 @@ function redirect(){
     document.getElementById("form").action="things.html";
 }
 
+
+
+
 // starting of the thingsToDo page API section
 
 
