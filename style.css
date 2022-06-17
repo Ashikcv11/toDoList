@@ -47,13 +47,24 @@
     /* box-shadow: 3px 3px 11px 1px rgba(33, 33, 33, 0.218);; */
 }
 
-.loginContainer p{
+.inputitems p{
     margin-left: -70px;
     /* padding-left: -60px; */
     font-size: 15px;
     margin-top: 10px;
     color: red;
     visibility: hidden;
+}
+.inform{
+    margin-top: 30px;
+    margin-right: 60px;
+}
+
+.inform p{
+    text-align: center;
+    /* margin-left: 30px; */
+    opacity: .6;
+    font-size: smaller;
 }
 button{
     width: 85%;
